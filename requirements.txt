@@ -9,7 +9,7 @@ pylint==2.14.5
 pytest==7.1.2
 pytorch-lightning==1.6.5
 rich==12.5.1
-scikit-learn==1.0.2
+scikit-learn==1.1.1
 scipy==1.7.3
 tifffile==2021.11.2
 torch==1.11.0
